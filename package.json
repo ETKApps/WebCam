@@ -1,0 +1,14 @@
+{
+  "name": "webcam",
+  "version": "1.0.0",
+  "description": "Core ETK App",
+  "main": "index.js",
+  "homepage": "http://www.etkapps.com",
+  "author": "ETKApps",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^2.3.1"
+  }
+}
